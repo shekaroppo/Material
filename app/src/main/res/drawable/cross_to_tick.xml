@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/face" >
+  <target
+      android:name="Line1"
+      android:animation="@anim/line1_path" />
+    <target
+        android:name="Line2"
+        android:animation="@anim/line2_path" />
+</animated-vector>

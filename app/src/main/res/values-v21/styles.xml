@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@android:color/holo_red_dark</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="android:colorAccent">@android:color/holo_orange_light</item>
+    </style>
+</resources>

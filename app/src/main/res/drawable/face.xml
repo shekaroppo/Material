@@ -1,0 +1,21 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="500dp"
+    android:width="500dp"
+    android:viewportHeight="400"
+    android:viewportWidth="600" >
+
+    <path
+        android:name="Line1"
+        android:strokeColor="@android:color/holo_blue_dark"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 100,100 L 500,300" />
+
+    <path
+        android:name="Line2"
+        android:strokeColor="@android:color/holo_blue_dark"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 100,300 L 500,100" />
+</vector>
